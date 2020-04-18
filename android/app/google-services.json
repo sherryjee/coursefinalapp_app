@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "484674273698",
+    "firebase_url": "https://rresturant-b11.firebaseio.com",
+    "project_id": "rresturant-b11",
+    "storage_bucket": "rresturant-b11.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:484674273698:android:4c73d1ed4d75a0c78bb2fb",
+        "android_client_info": {
+          "package_name": "com.example.coursefinalappapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "484674273698-dv1ofdctrb4amr46g9kpb7tra8v1ajr3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA4oA4uXu5PHPML33T0IzwGCQb7YyHfVI4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "484674273698-dv1ofdctrb4amr46g9kpb7tra8v1ajr3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
