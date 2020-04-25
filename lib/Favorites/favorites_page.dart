@@ -129,6 +129,7 @@ int counter =0;
       mainAxisSpacing: 8,
       crossAxisCount: 2,
       children: x,
+
     );
   }
 }

@@ -22,7 +22,7 @@ class MyApp extends StatelessWidget {
           primaryColor: Colors.redAccent
       ),
 
-      home: Splash_Screen(),
+      home:Splash_Screen(),
       //Account_page()
       //LisView_elements(),
       //mapping(auth: Auth(),)
